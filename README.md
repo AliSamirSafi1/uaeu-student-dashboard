@@ -2,6 +2,8 @@
 
 An interactive dashboard that visualizes student enrollment, demographic, and academic trend data for **UAE University (UAEU)** — built to make it easy to explore key metrics and compare performance across academic years.
 
+🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGZhMjM4NDEtZTcyOC00Nzk3LTlkMjYtNTZjMDIxMzc3YjdjIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9&pageName=aa6612379922ae49f471)**
+
 ![Welcome Page](assets/Welcome-Page.jpg)
 
 ---
