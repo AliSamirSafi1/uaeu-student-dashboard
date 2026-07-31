@@ -61,6 +61,7 @@ Built with **Power BI**.
 ## 📬 Contact
 
 Feel free to reach out or connect if you have questions or feedback about this project.
+[LinkedIn Account](https://www.linkedin.com/in/alisamirsafi1/).
 
 ---
 
